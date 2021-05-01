@@ -1,4 +1,4 @@
-# Blue_Shifted_Tensor_Spectral_Index
+# Blue_Tilted_Tensor_Spectral_Index
 This Mathematica code was devised in order to study the effect of a Chern-Simons term in the case of a Canonical scalar field during the inflationary era. 
 As a toy model, we study chaotic inflation, meaning a quadratic scalar potential and as a Chern-Simons scalar coupling function, a trigonometric model was chosen. 
 This particular model was fine tuned such that the tensor spectral index obtains a positive value. It is quite flexible and other models can also be studied relatively easy.
